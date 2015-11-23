@@ -5,6 +5,7 @@ The idea is to get the "Congratulations" message by finding a Name/Serial combin
 
 Tested on: Windows 7/8/8.1 - both, x86 and x86_64.
 
+# Hashes
 $ md5sum.exe JACrackme.exe
 6b15352669b4ad6919ac79a139f88b06 *JACrackme.exe
 
